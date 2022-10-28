@@ -1,0 +1,19 @@
+function zero () {
+    test0
+}
+
+function one () {
+    test1
+}
+
+function two () {
+    test 2
+}
+
+function three () {
+    test2
+}
+
+function four () {
+    test 4
+}
